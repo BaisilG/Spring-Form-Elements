@@ -9,3 +9,7 @@ once you have import all the project
 
 now most of the red mark will disappear, but you might see a red mark in the main root project!
 
+
+to fix it 
+
+right click -> build path -> under Libraries -> change JRE System Library Version 
