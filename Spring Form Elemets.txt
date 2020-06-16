@@ -6,3 +6,6 @@ How to fix it?
 
 once you have import all the project 
 	right click -> Maven -> Update the Project -> Select the projects -> finish
+
+now most of the red mark will disappear, but you might see a red mark in the main root project!
+
