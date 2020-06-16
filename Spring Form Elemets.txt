@@ -5,4 +5,4 @@ if i import an existing project you will get the errors...
 How to fix it?
 
 once you have import all the project 
-	
+	right click -> Maven -> Update the Project -> Select the projects -> finish
