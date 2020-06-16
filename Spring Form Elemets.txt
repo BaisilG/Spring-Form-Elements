@@ -1,1 +1,8 @@
 Introduction 
+
+if i import an existing project you will get the errors...
+
+How to fix it?
+
+once you have import all the project 
+	
