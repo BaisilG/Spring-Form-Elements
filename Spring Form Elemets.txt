@@ -15,3 +15,7 @@ now most of the red mark will disappear, but you might see a red mark in the mai
 to fix it 
 
 right click -> build path -> under Libraries -> change JRE System Library Version 
+
+
+
+####Getting Start with Forms#######
